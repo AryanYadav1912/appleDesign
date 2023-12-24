@@ -1,3 +1,4 @@
+appledesign/company-profile/Readme/client-side.JPG
 Apple Website Frontend Project
 This repository contains the frontend code for an Apple-inspired website showcasing various Apple products. The project is developed using HTML, CSS, and JavaScript. The web page is designed to be responsive and follows Apple's design principles and brand guidelines.
 
